@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin:0;
+    list-style: none;
+    font-family: sans-serif;
+    text-decoration: none;
+    color: white;
+    font-size: 1rem;
+}
+.main-header{
+    background-color: rgb(43, 43, 43);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 13px;
+}
+.main-header img{
+    width: 250px;
+}
+.main-header ul{
+    display: flex;
+    gap: 5px;
+
+}
+.main-content{
+    background-color: #444444;
+}
+.main-footer{
+    background-color: rgb(43, 43, 43);
+}
